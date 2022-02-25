@@ -1,2 +1,2 @@
 # php-fiesta-cookie
-weak 4
+week 4
