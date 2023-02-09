@@ -160,6 +160,7 @@ $ave_attack= ave_attack(array_column($animal,'attack'));
               </tr>
            
         
+                
           <?php 
               $id=$id+1;
             } 
