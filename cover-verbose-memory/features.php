@@ -1,5 +1,6 @@
 <?php include'inc/header.php' ?>
 
+
 <main role="main" class="inner cover">
         <h1 class="cover-heading">Features.</h1>
         <table class="table table-dark table-hover">
