@@ -99,6 +99,7 @@ $animal=array(
 );
 
 
+
 echo "<pre>";
 echo var_dump($animal);
 echo var_dump($favorite);
