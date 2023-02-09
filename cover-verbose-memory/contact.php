@@ -1,5 +1,6 @@
 <?php include'inc/header.php' ?>
 
+
 <main role="main" class="inner cover">
         <h1 class="cover-heading">Contact Us.</h1>
         <form>
