@@ -12,6 +12,7 @@ function pokemon_defense($pokemon, $limit_number)
     }
 }
 
+
 pokemon_defense(
     array(
         1 => array("id" => 1, "species" => "Bulbasaur", "type_1" => "Grass", "type_2" => "Poison", "ability" => "Overgrow", "hp" => 45, "attack" => 49, "defense" => 49),
